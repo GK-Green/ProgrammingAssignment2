@@ -1,7 +1,7 @@
 ## Put comments here that give an overall description of what your
 ## functions do
 
-## makeCacheMatrix creats a special "matrix" that has an inverse.
+## makeCacheMatrix creats a special "matrix" that may contain an inverse.
 ## It is a list of following functions
 ## set the value of the matrix
 ## get the value of the matrix
